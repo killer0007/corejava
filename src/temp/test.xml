@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<company>
+    <staff id="1001">
+        <firstname>yong</firstname>
+        <lastname>mook kim</lastname>
+        <nickname>mkyong</nickname>
+        <salary>100000</salary>
+    </staff>
+    <staff id="2001">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>200000</salary>
+    </staff>
+    <staff id="3001">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>300000</salary>
+    </staff>
+    <staff id="4001">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>400000</salary>
+    </staff>
+    <staff id="5001">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>500000</salary>
+    </staff>
+    <staff id="6001">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>600000</salary>
+    </staff>
+    <staff id="7001">
+        <firstname>low</firstname>
+        <lastname>yin fong</lastname>
+        <nickname>fong fong</nickname>
+        <salary>700000</salary>
+    </staff>
+</company>
