@@ -1,4 +1,4 @@
-package temp;
+package xmlread;
 
 import java.io.File;
 import java.io.IOException;
